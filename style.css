@@ -1,0 +1,300 @@
+nav ul a,
+nav .brand-logo {
+  color: #444;
+}
+
+p {
+  line-height: 2rem;
+}
+
+.button-collapse {
+  color: #ee6e73;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: 450px;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+div#Contenedor
+{
+    width: 1000px;
+    height: 150px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+}
+div#Nombre
+{
+    float: right;
+    width: 500px;
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+
+div#Tipo
+{
+    width: 500px;
+    height: 150px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    margin-bottom: 30px;
+}
+div#Cuadrobusqueda
+{
+    width: 375px;
+    height: 100px;
+    margin-left: 50px;
+}
+div#CuadroTipo
+{
+    width: 375px;
+    height: 100px;
+    margin-left: 50px;
+}
+#efermeralogo{
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+#corazonlogo{
+    width: 30px;
+    height: 35px;
+    float: left;
+    margin-left: 5px;
+    margin-top: -5px;
+}
+#h4
+{
+    font-size: 20PX;
+    color: mediumpurple;
+}
+#h5
+{
+    text-align: center;
+    font-size: 20PX;
+    color: mediumpurple;
+}
+#nombres {
+  float: left;
+  width: 69%;
+  background: white;
+  border-radius: 4px;
+  margin-top: -10PX;
+  padding: 5px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: gray;
+
+}
+#seleccionar{
+  width: 100%;
+  background: white;
+  border-radius: 4px;
+  margin-top: -10PX;
+  padding: 5px;
+  border: 1px solid #1f53c5;
+  font-family: 'calibri';
+  font-size: 18px;
+  color: gray;
+
+}
+.botons {
+  float: right;
+  width: 26%;
+  background: #1f53c5;
+  margin-top: -9PX;
+  padding: 15px;
+  border-radius: 4px;
+  color: white;
+  font-size: 16px;
+}
+
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+
+.container2 {
+  height: 370px;
+  text-align: center;
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+
+footer.page-footer {
+  margin: 0;
+}
+h5{
+  text-align: center;
+
+  color: purple;
+}
+#tituloprinci{
+    width: 500px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 0px;
+    margin-left: 25%;
+    border-radius: 4px;
+    color: #191717;
+    line-height: 1.4em;
+}
+.center {
+  text-align: center;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.bullets {
+    list-style-type: circle;
+    text-align: center;
+}
+
+ .parallax img
+ {
+   height: 100px;
+   width: 100%;
+   object-position: 5px 90%;
+ 	 background-repeat: no-repeat;
+ 	 background-size: cover;
+ }
+
+ .parallax-container
+ {
+ 	color: black;
+ }
+ @media only screen and (max-width : 600px) {
+  .parallax-container
+ {
+ 	color: white;
+ }
+}
+ nav a.button-collapse
+ {
+ 	color:black;
+ }
+ .purple.lighten-1 {
+  background-color: #CC0066 !important;
+}
+.teal-text.text-lighten-2 {
+  color: #CC0066 !important;
+  margin-top: 60px;
+}
+.share-buttons{
+	list-style: none;
+}
+
+.share-buttons li{
+	display: inline;
+}
+
+#cuerpomedio{
+  text-align: left;
+}
+#titulo2{
+  text-align: left;
+  color: red;
+  width: 550px;
+  margin-left: -20px;
+  margin-bottom: 50px;
+  font-size: 50PX;
+  font-family: 'open sans';
+}
+#contenido1{
+  width: 350px;
+  margin-top: 10px;
+  font-family: 'open sans';
+  font-size: 20PX;
+}
+div#Area_subscripcion{
+  margin-top: 50px;
+  margin-left: 10%;
+  width: 80%;
+  height: 500px;
+
+
+}
+#celularimg{
+  margin-top: 10px;
+  margin-left: 10px;
+  width: 30% ;
+  height: 80%;
+}
+#contenidosubscripcion{
+  padding: 5px;
+  width: 60%;
+  float: right;
+  margin-top: 10px;
+  margin-right: 10px;
+  font-family: 'open sans';
+  font-size: 20PX;
+}
+#contenidosubs{
+  width: 50%;
+  font-family: 'open sans';
+  font-size: 20PX;
+}
+#tituloSubs{
+  font-size: 50px;
+  font-family: 'open sans';
+  line-height: 1.0em;
+}
+#botonsubs {
+  float: left;
+  width: 150px;
+  background: #1f53c5;
+  margin-top: 15PX;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 16px;
+  color: white;
+  font-size: 16px;
+}
+nav
+{
+	overflow: visible;
+}
+nav li a {
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
